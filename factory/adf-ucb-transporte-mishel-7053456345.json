@@ -1,0 +1,10 @@
+{
+	"name": "adf-ucb-transporte-mishel-7053456345",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "brazilsouth"
+}
